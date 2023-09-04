@@ -21,7 +21,6 @@ a {
 
 
 #maindiv {
-    width: -webkit-fill-available;
     float: center;
     display: flex;
     width: 500px;
@@ -42,7 +41,6 @@ a {
 
 
 #interestsdiv {
-    width: -webkit-fill-available;
     text-align: center;
     width: 500px;
     justify-content: center;
