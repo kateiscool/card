@@ -23,7 +23,7 @@ a {
 #maindiv {
     float: center;
     display: flex;
-    width: 500px;
+    width: 70%;
     padding: 30px auto;
     border: 2px #b3adb8 dashed;
     border-radius: 10px;
