@@ -78,3 +78,8 @@ a {
 #peoplebuttontext {
     border: 2px black solid;
 }
+
+@media screen and (max-width: 600px) {
+    #maindiv {
+        width: 200px;
+}
