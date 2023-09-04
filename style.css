@@ -38,22 +38,6 @@ a {
     margin: 10px auto;
 }
 
-@media (max-width: 600px) {
-    #maindiv {
-    float: center;
-    display: flex;
-    width: 200px;
-    padding: 30px auto;
-    border: 2px #b3adb8 dashed;
-    border-radius: 10px;
-    margin: 50px auto;
-    margin-bottom: 10px;
-    background-color: #f8edff;
-}
-}
-
-
-
 #interestsdiv {
     text-align: center;
     width: 500px;
