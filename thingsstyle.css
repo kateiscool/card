@@ -87,3 +87,8 @@ mark {
 #thingsbuttontext {
     border: 2px black solid;
 }
+#moreinfo {
+    margin: 20px 50px;
+    width: 400px;
+    padding: 20px auto;
+}
