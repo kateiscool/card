@@ -21,7 +21,7 @@ a {
 hr {
     border: 1px solid black;
     border-radius: 3px;
-    width: 200px;
+    width: 100px;
 }
 
 
@@ -81,4 +81,9 @@ hr {
 }
 #peoplebuttontext {
     border: 2px black solid;
+}
+#moreinfo {
+    margin: 20px 50px;
+    width: 400px;
+    padding: 20px auto;
 }
