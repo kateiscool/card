@@ -2,7 +2,7 @@ body {
     background-color: #fbf5ff;
 }
 img {
-    width: 150px;
+    width: 30%;
     margin: 10px auto;
 }
 p {
@@ -42,7 +42,7 @@ a {
 
 #interestsdiv {
     text-align: center;
-    width: 500px;
+    width: 95%;
     justify-content: center;
     margin: 20px auto;
     border: 2px #b3adb8 dashed;
