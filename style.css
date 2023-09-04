@@ -1,3 +1,6 @@
+html {
+    width: -webkit-fill-available;
+}
 body {
     background-color: #fbf5ff;
 }
