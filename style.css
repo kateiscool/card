@@ -81,5 +81,20 @@ a {
 
 @media screen and (max-width: 600px) {
     #maindiv {
-        width: 200px;
+    float: center;
+    display: flex;
+    width: 250px;
+    padding: 15px auto;
+    border: 2px #b3adb8 dashed;
+    border-radius: 10px;
+    margin: 25px auto;
+    margin-bottom: 10px;
+    background-color: #f8edff;
+}
+#maindivtext {
+    width: 150px;
+    text-align: center;
+    padding: 20px auto;
+    margin: 10px auto;
+}
 }
