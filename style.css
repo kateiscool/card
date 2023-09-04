@@ -1,0 +1,80 @@
+body {
+    background-color: #fbf5ff;
+}
+img {
+    width: 150px;
+    margin: 10px auto;
+}
+p {
+    margin: 5px;
+}
+h1{
+    margin: 10px 0px 0px 0px;
+}
+h3{
+    margin: 0px 0px 25px 0px;
+}
+a {
+    color: black;
+}
+
+
+
+#maindiv {
+    float: center;
+    display: flex;
+    width: 500px;
+    padding: 30px auto;
+    border: 2px #b3adb8 dashed;
+    border-radius: 10px;
+    margin: 50px auto;
+    margin-bottom: 10px;
+    background-color: #f8edff;
+}
+#maindivtext {
+    width: 300px;
+    text-align: center;
+    padding: 20px auto;
+    margin: 10px auto;
+}
+
+
+
+#interestsdiv {
+    text-align: center;
+    width: 500px;
+    justify-content: center;
+    margin: 20px auto;
+    border: 2px #b3adb8 dashed;
+    border-radius: 10px;
+    padding: 20px auto;
+    background-color: #f8edff;
+}
+#interestsmenu {
+    margin: 10px 10px 0px 10px;
+    display: flex;
+    justify-content: center;
+}
+.menubuttonA {
+    width: 65px;
+    padding: 5px 0px;
+    background-color: #cac2cf;
+    margin: 5px 4px 5px 4px;
+    text-align: center;
+    align-items:center;
+    justify-content:center;
+}
+.menubuttonB {
+    width: 65px;
+    padding: 5px 0px;
+    background-color: #e2d8e8;
+    margin: 5px 4px 5px 4px;
+}
+.intereststext {
+    margin: 20px 50px;
+    width: 400px;
+    padding: 20px auto;
+}
+#peoplebuttontext {
+    border: 2px black solid;
+}
