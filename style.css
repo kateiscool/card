@@ -47,7 +47,8 @@ mark {
     margin: 10px auto;
 }
 #middleimgdiv {
-    width: 30px;
+    display: flex;
+    justify-content: center;
 }
 
 #interestsdiv {
@@ -92,4 +93,7 @@ mark {
     margin: 20px 50px;
     width: 400px;
     padding: 20px auto;
+}
+.middleimgclass {
+    width: 30px;
 }
